@@ -1,1 +1,12 @@
 /* styles go here */
+.group__input-block {
+  margin-bottom: 10px;
+}
+
+.group {
+  margin-bottom: 20px;
+}
+
+.group .group__input-block:last-child {
+  margin-bottom: 0;
+}
